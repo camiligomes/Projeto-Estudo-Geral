@@ -1,10 +1,33 @@
+/*Pagina de Gramatica*/
+
 html {
-	font-family: Helvetica;
+	font-family: Arial, Helvetica, sans-serif;
 	background-color: #DDD;
 }
 
 .cabecalho {
+    font-family: Helvetica;
     background-color: #3e48a350;
     padding: 10px;
     text-align: center;
+}
+
+
+
+/*Página de Interpretação de texto*/
+
+
+.cabecalho-interpretacao {
+    text-align: left;
+}
+.interpretacao {
+    padding: 20px;
+    font-size: 16px;
+
+}
+
+.paragrafo-principal {
+    text-align: center;
+    padding: 0%;
+    margin: 10%;
 }

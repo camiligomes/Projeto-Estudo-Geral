@@ -2,3 +2,9 @@ html {
 	font-family: Helvetica;
 	background-color: #DDD;
 }
+
+.cabecalho {
+    background-color: #3e48a350;
+    padding: 10px;
+    text-align: center;
+}

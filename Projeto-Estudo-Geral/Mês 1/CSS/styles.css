@@ -5,6 +5,13 @@ html {
 	background-color: #DDD;
 }
 
+.titulo-principal {
+
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
 .cabecalho {
     font-family: Helvetica;
     background-color: #3e48a350;
@@ -17,17 +24,19 @@ html {
 /*Página de Interpretação de texto*/
 
 
-.cabecalho-interpretacao {
+.cabecalho-interpretacao-01 {
     text-align: left;
-}
-.interpretacao {
     padding: 20px;
-    font-size: 16px;
-
+    font: size 20px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.paragrafo-principal {
+    
+.paragrafo-principal-01 {
     text-align: center;
     padding: 0%;
-    margin: 10%;
+    margin: 5%;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

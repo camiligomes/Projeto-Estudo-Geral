@@ -5,18 +5,27 @@ html {
 	background-color: #DDD;
 }
 
+.cabecalho {
+    background-color: #3e48a350;
+    padding: 1.5rem;
+    text-align: center;
+    text-align: left;
+    font: size 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.paragrafo-principal {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .titulo-principal {
 
     padding: 20px;
     text-align: center;
     font-size: 40px;
     padding: 20px;
-}
-.cabecalho {
-    font-family: Helvetica;
-    background-color: #3e48a350;
-    padding: 10px;
-    text-align: center;
 }
 
 
@@ -25,8 +34,10 @@ html {
 
 
 .cabecalho-interpretacao-01 {
+    background-color: #3e48a350;
+    padding: 1.5rem;
+    text-align: center;
     text-align: left;
-    padding: 20px;
     font: size 20px;
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -36,7 +47,7 @@ html {
 .paragrafo-principal-01 {
     text-align: center;
     padding: 0%;
-    margin: 5%;
+    margin: 2%;
     font-size: 20px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

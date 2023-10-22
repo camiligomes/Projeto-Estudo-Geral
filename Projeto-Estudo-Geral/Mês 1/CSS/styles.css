@@ -15,6 +15,17 @@ html {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.conceitos-gramatica
+{
+    text-align: center;
+    background-color: #3e48a350;
+    padding: 1.5rem;
+    text-align: center;
+    text-align: left;
+   font-size: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .texto {
 text-align: center;
 }
